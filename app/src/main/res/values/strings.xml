@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Lost and Found</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="api_key">AIzaSyDB6AMnlvjsQb6hFnUvi4EjNuOZ88NRmv8</string>
+    <string name="found">Found</string>
+    <string name="lost">Lost</string>
+    <string name="lost_or_found">Lost or Found:</string>
+    <string name="item_name">Item name:</string>
+    <string name="number">Number:</string>
+    <string name="description">Description:</string>
+    <string name="date">Date:</string>
+    <string name="location">Location:</string>
 </resources>
